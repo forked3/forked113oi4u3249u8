@@ -1,4 +1,3 @@
 # forked
 
-PLease ignore the .idea files 
-ruizhe9
+Please ignore the .idea folder, ccid: ruizhe9
