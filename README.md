@@ -1,3 +1,3 @@
 # forked
 
-Please ignore the .idea folder, ccid: ruizhe9
+Please check the .idea folder, ccid: ruizhe9
